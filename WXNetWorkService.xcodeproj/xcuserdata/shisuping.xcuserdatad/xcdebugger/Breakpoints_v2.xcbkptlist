@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WXNetWorkServiceTests/WXNetWorkServiceTests.m"
+            timestampString = "534671580.796134"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "-testExample"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXNetWorkServiceTests testExample]"
+                  moduleName = "WXNetWorkServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shisuping/Documents/SmartSVN/WXNetWorkService/WXNetWorkServiceTests/WXNetWorkServiceTests.m"
+                  timestampString = "534670960.065675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXNetWorkServiceTests testExample]"
+                  moduleName = "WXNetWorkServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shisuping/Documents/SmartSVN/WXNetWorkService/WXNetWorkServiceTests/WXNetWorkServiceTests.m"
+                  timestampString = "534670960.069155"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "205">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXNetWorkServiceTests testExample]"
+                  moduleName = "WXNetWorkServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shisuping/Documents/SmartSVN/WXNetWorkService/WXNetWorkServiceTests/WXNetWorkServiceTests.m"
+                  timestampString = "534670960.072946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "909">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXNetWorkServiceTests testExample]"
+                  moduleName = "WXNetWorkServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shisuping/Documents/SmartSVN/WXNetWorkService/WXNetWorkServiceTests/WXNetWorkServiceTests.m"
+                  timestampString = "534670960.076483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1061">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXNetWorkServiceTests testExample]"
+                  moduleName = "WXNetWorkServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shisuping/Documents/SmartSVN/WXNetWorkService/WXNetWorkServiceTests/WXNetWorkServiceTests.m"
+                  timestampString = "534670960.079922"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1170">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
